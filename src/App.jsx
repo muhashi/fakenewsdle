@@ -137,7 +137,7 @@ export default function OnionGame() {
         {/* Header */}
         <Center>
           <Stack align="center" spacing="sm">
-            <Title order={1} color="blue">Not The Oniondle</Title>
+            <Title order={1} color="blue">Oniondle</Title>
             <Text c="dimmed" size="lg" align="center">
               Can you tell the difference between real news headlines and satirical Onion articles?
             </Text>
@@ -166,7 +166,7 @@ export default function OnionGame() {
         <Card shadow="md" padding="xl" radius="md" withBorder>
           <Stack spacing="lg">
             <Center>
-              <Text size="xl" weight={600} align="center" style={{ lineHeight: 1.4 }}>
+              <Text size="xl" weight={600} align="center" style={{ lineHeight: 1.4, fontFamily: 'Georgia, Times, Times New Roman, serif' }}>
                 {currentHeadline?.headline}
               </Text>
             </Center>

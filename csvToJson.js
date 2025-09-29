@@ -56,6 +56,26 @@ function filterOutOnionReferences(records) {
 }
 
 /**
+ * Balances dataset to have equal numbers of isOnion true and false
+ * @param {Array} records - Array of records to balance
+ * @returns {Array} - Balanced array with equal isOnion true/false counts
+ */
+function balanceDataset(records) {
+  const onionArticles = records.filter(r => r.isOnion === true);
+  const notOnionArticles = records.filter(r => r.isOnion === false);
+  
+  // Find the minimum count between the two categories
+  const minCount = Math.min(onionArticles.length, notOnionArticles.length);
+  
+  // Take equal numbers from each category
+  const balancedOnion = onionArticles.slice(0, minCount);
+  const balancedNotOnion = notOnionArticles.slice(0, minCount);
+  
+  // Combine them
+  return [...balancedOnion, ...balancedNotOnion];
+}
+
+/**
  * Shuffles an array using Fisher-Yates algorithm
  * @param {Array} array - Array to shuffle
  * @returns {Array} - Shuffled array
@@ -144,15 +164,26 @@ async function main() {
       console.log(`🗑️  Filtered out ${filteredCount} record(s) containing "onion"`);
     }
     
+    // Balance the dataset
+    console.log('Balancing dataset...');
+    const onionCount = filteredData.filter(r => r.isOnion === true).length;
+    const notOnionCount = filteredData.filter(r => r.isOnion === false).length;
+    console.log(`📊 Before balancing: ${onionCount} Onion articles, ${notOnionCount} Not Onion articles`);
+    
+    const balancedData = balanceDataset(filteredData);
+    const finalOnionCount = balancedData.filter(r => r.isOnion === true).length;
+    const finalNotOnionCount = balancedData.filter(r => r.isOnion === false).length;
+    console.log(`⚖️  After balancing: ${finalOnionCount} Onion articles, ${finalNotOnionCount} Not Onion articles`);
+    
     // Shuffle the data
     console.log('Shuffling records...');
-    const shuffledData = shuffleArray(filteredData);
+    const shuffledData = shuffleArray(balancedData);
     
     // Write JSON file
     console.log(`Writing JSON file: ${outputFile}`);
-    fs.writeFileSync(outputFile, JSON.stringify(shuffledData));
+    fs.writeFileSync(outputFile, JSON.stringify(shuffledData, null, 2));
     
-    console.log(`✅ Successfully converted, filtered, and shuffled ${shuffledData.length} records`);
+    console.log(`✅ Successfully converted, filtered, balanced, and shuffled ${shuffledData.length} records`);
     console.log(`📄 Output saved to: ${outputFile}`);
     
     // Display first few records as preview
@@ -176,7 +207,8 @@ export {
   convertCsvToJson,
   parseCsvLine,
   shuffleArray,
-  filterOutOnionReferences
+  filterOutOnionReferences,
+  balanceDataset
 };
 
 // Run main function if script is executed directly
