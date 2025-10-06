@@ -25,12 +25,12 @@ const getDaysSinceEpoch = () => {
   return Math.floor(diff / (1000 * 60 * 60 * 24));
 };
 
-// Get the 10 headlines for today
+// Get the 8 headlines for today
 const getTodaysHeadlines = () => {
   const dayNumber = getDaysSinceEpoch();
-  const setNumber = dayNumber % Math.ceil(FULL_DATASET.length / 10);
-  const startIndex = setNumber * 10;
-  const endIndex = Math.min(startIndex + 10, FULL_DATASET.length);
+  const setNumber = dayNumber % Math.ceil(FULL_DATASET.length / 8);
+  const startIndex = setNumber * 8;
+  const endIndex = Math.min(startIndex + 8, FULL_DATASET.length);
   return FULL_DATASET.slice(startIndex, endIndex);
 };
 
