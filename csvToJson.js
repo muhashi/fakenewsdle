@@ -177,11 +177,12 @@ async function main() {
     
     // Shuffle the data
     console.log('Shuffling records...');
-    const shuffledData = shuffleArray(balancedData);
+    // const shuffledData = shuffleArray(balancedData);
+    const shuffledData = balancedData;
     
     // Write JSON file
     console.log(`Writing JSON file: ${outputFile}`);
-    fs.writeFileSync(outputFile, JSON.stringify(shuffledData, null, 2));
+    fs.writeFileSync(outputFile, JSON.stringify(shuffledData));
     
     console.log(`✅ Successfully converted, filtered, balanced, and shuffled ${shuffledData.length} records`);
     console.log(`📄 Output saved to: ${outputFile}`);
