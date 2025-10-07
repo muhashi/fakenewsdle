@@ -1,1 +1,2394 @@
-[]
+[
+  {
+    "headline": "Hamster resurrection: Pet rises from the grave at Easter after being buried in garden",
+    "isFake": false
+  },
+  {
+    "headline": "Fourth-grader wins science fair with drug-sniffing dogs, ounce of cocaine",
+    "isFake": false
+  },
+  {
+    "headline": "We need to make our children stronger by not providing them anything",
+    "isFake": true
+  },
+  {
+    "headline": "Miss Universe contest faces criticism: “It lacks focus on women’s appearance”",
+    "isFake": true
+  },
+  {
+    "headline": "Enlightened Chinese farmer branches out by growing pears shaped like the baby buddha",
+    "isFake": false
+  },
+  {
+    "headline": "Peacock announces new reality show where contestants live without food",
+    "isFake": true
+  },
+  {
+    "headline": "Boy points finger like gun, gets suspended",
+    "isFake": false
+  },
+  {
+    "headline": "Twitter user doxxed after claiming “Taylor Swift could end the war by dating Putin”",
+    "isFake": true
+  },
+  {
+    "headline": "Rudy Giuliani kicks off inauguration lunch with 9/11 sex joke",
+    "isFake": false
+  },
+  {
+    "headline": "New Jersey school apologizes after serving fried chicken for Black History Month",
+    "isFake": false
+  },
+  {
+    "headline": "Kanye West vows not to 'talk shit' for six months",
+    "isFake": false
+  },
+  {
+    "headline": "Convicted pedophile Denis Hall running for Catholic school board",
+    "isFake": false
+  },
+  {
+    "headline": "Oregon family dial 911 after 22-pound pet cat holds them hostage in bedroom",
+    "isFake": false
+  },
+  {
+    "headline": "Austrian scientists claim to develop camera that can take photos of your future self",
+    "isFake": true
+  },
+  {
+    "headline": "Chinese Man Named Bai Ting Arrested for Biting Police Officer",
+    "isFake": false
+  },
+  {
+    "headline": "Saudi Arabia advertises for eight new executioners",
+    "isFake": false
+  },
+  {
+    "headline": "Australian town cancels annual sausage festival due to “size problem”",
+    "isFake": true
+  },
+  {
+    "headline": "‘Bi-sexual’ beetles don’t swing both ways...they’re just inept at mating, study shows",
+    "isFake": false
+  },
+  {
+    "headline": "Topless feminist disrupts psychic pig's feeding time",
+    "isFake": false
+  },
+  {
+    "headline": "McDonald’s employee fired for giving Happy Meal toy for free to child with stage 3 cancer",
+    "isFake": true
+  },
+  {
+    "headline": "Australian news anchor Stephanie Urine pisses herself live on air",
+    "isFake": true
+  },
+  {
+    "headline": "Russian Orthodox Priests Hug Cats for New 2016 Calendar",
+    "isFake": false
+  },
+  {
+    "headline": "Cops hit my car, then arrested me",
+    "isFake": false
+  },
+  {
+    "headline": "Disney introduces premium cereal called “Mickey’s Munchies”",
+    "isFake": true
+  },
+  {
+    "headline": "First-graders’ apparent plot to kill classmate with poisoned lunch foiled by teacher",
+    "isFake": false
+  },
+  {
+    "headline": "Scientist reports dolphins might be gossiping about humans",
+    "isFake": true
+  },
+  {
+    "headline": "Man Tries to Rob a Bank After Paying $500 to a Wizard to Make Him Invisible",
+    "isFake": false
+  },
+  {
+    "headline": "Queen Elizabeth to celebrate her 92nd birthday by getting serenaded by Shaggy",
+    "isFake": false
+  },
+  {
+    "headline": "Bathroom hand dryers spraying poop on your hands, study finds",
+    "isFake": false
+  },
+  {
+    "headline": "UK supermarket apologizes for selling “vegan chicken” made of pork",
+    "isFake": true
+  },
+  {
+    "headline": "Police who shot Vallejo rapper 55 times in 3.5 seconds acted reasonably, report found",
+    "isFake": false
+  },
+  {
+    "headline": "Major crime ring busted with $30k of stolen Nutella",
+    "isFake": false
+  },
+  {
+    "headline": "There is no internet censorship in China, says China’s top censor",
+    "isFake": false
+  },
+  {
+    "headline": "China will require its 250,000 journalists to pass a 'Marxism test'",
+    "isFake": false
+  },
+  {
+    "headline": "Police say man escaped arrest by “politely explaining it wasn’t a good time”",
+    "isFake": true
+  },
+  {
+    "headline": "Google admits some CAPTCHA challenges are “intentionally impossible”",
+    "isFake": true
+  },
+  {
+    "headline": "Florida bill would ban the banning of plastic straws",
+    "isFake": false
+  },
+  {
+    "headline": "Subway To Test Bread That’s Actually Bread",
+    "isFake": true
+  },
+  {
+    "headline": "Pagan priest wins right to wear horns in driver’s license photo",
+    "isFake": false
+  },
+  {
+    "headline": "A dying woman calls emergency services. She is told 'everyone' dies",
+    "isFake": false
+  },
+  {
+    "headline": "Gay rodeo has improved but still has goat panties",
+    "isFake": false
+  },
+  {
+    "headline": "Group forcibly tattoo slur on man’s neck - spell it wrong",
+    "isFake": false
+  },
+  {
+    "headline": "Meta announces new “AI generated reaction button” to replace like and angry reacts",
+    "isFake": true
+  },
+  {
+    "headline": "We are 'heroes,' says police chief whose force arrested a photographer",
+    "isFake": false
+  },
+  {
+    "headline": "Study finds 30% of pet owners kiss their dogs on the lips",
+    "isFake": true
+  },
+  {
+    "headline": "Elon Musk unveils robot chickens: “ethical slaughter”",
+    "isFake": true
+  },
+  {
+    "headline": "North Korean dictator Kim Jong-un may be seriously ill from eating too much Emmental cheese",
+    "isFake": false
+  },
+  {
+    "headline": "Study finds people trust memes more than actual news reports",
+    "isFake": true
+  },
+  {
+    "headline": "Deputies follow trail of beer cans to find escaped inmate",
+    "isFake": false
+  },
+  {
+    "headline": "I acted as a man to get work - until I was accused of rape",
+    "isFake": false
+  },
+  {
+    "headline": "Local council bans clapping in public meetings after “applause fatigue”",
+    "isFake": true
+  },
+  {
+    "headline": "First grader suspended and facing expulsion after finding toy gun in backpack and even turning himself in",
+    "isFake": false
+  },
+  {
+    "headline": "Macklemore uses nude Justin Bieber painting as a sex aid",
+    "isFake": false
+  },
+  {
+    "headline": "Man spends £30,000 in legal fees fighting £100 speeding fine, loses the case",
+    "isFake": false
+  },
+  {
+    "headline": "Police in Thailand forced to shoot out cars tires as American tourist refused to stop driving the wrong way",
+    "isFake": false
+  },
+  {
+    "headline": "People Are Scaring Their Cats with Cucumbers. They Shouldn’t.",
+    "isFake": false
+  },
+  {
+    "headline": "‘Harry Potter’ Books Brainwashed Millennials To Elect President Barack Obama, New Study Says",
+    "isFake": false
+  },
+  {
+    "headline": "Spotify won't remove artist 'Adolf Hitler', says CEO",
+    "isFake": true
+  },
+  {
+    "headline": "Bright pink tap water puzzles Onoway residents",
+    "isFake": false
+  },
+  {
+    "headline": "Mom Finds Dead Body During Easter Egg Hunt",
+    "isFake": false
+  },
+  {
+    "headline": "TikTok trend encourages teens to “admit you're broke”",
+    "isFake": true
+  },
+  {
+    "headline": "Illinois Governor Drinks Chocolate Milk to Show Diversity is 'Really Good'",
+    "isFake": false
+  },
+  {
+    "headline": "Woman's rejected \"8theist\" license plate violates First Amendment",
+    "isFake": false
+  },
+  {
+    "headline": "Portland Police Say It's Fine If Officers Punch Suspects They Think are Noncompliant in the Face",
+    "isFake": false
+  },
+  {
+    "headline": "Local artist sells painting of blank canvas titled “This Is A Metaphor For Life”",
+    "isFake": true
+  },
+  {
+    "headline": "Sydney man arrested for prank calling telemarketers and making “dog noises”",
+    "isFake": true
+  },
+  {
+    "headline": "Russia accuses US of meddling in its elections",
+    "isFake": false
+  },
+  {
+    "headline": "Airbnb guest discovers nuclear reactor in basement",
+    "isFake": true
+  },
+  {
+    "headline": "French postman completes delivery on boat during floods",
+    "isFake": true
+  },
+  {
+    "headline": "Battered wife knifed her husband to death then discovered he was a woman",
+    "isFake": false
+  },
+  {
+    "headline": "Star Wars fans divided over announcement of Star Wars themed sex toys",
+    "isFake": true
+  },
+  {
+    "headline": "Man in Seoul arrested for tying hamster to drone",
+    "isFake": true
+  },
+  {
+    "headline": "Omaha dad finds pot brownies, eats 4 of them, says mean things to cat",
+    "isFake": false
+  },
+  {
+    "headline": "Subway to launch fragrance line that smells like “Italian Herbs and Cheese”",
+    "isFake": true
+  },
+  {
+    "headline": "Parrot Rats Out Owner At DUI Checkpoint",
+    "isFake": false
+  },
+  {
+    "headline": "Survey reveals most people don’t know how microwaves work and don’t want to",
+    "isFake": true
+  },
+  {
+    "headline": "Woman in Sweden trapped overnight in IKEA, describes it as “peaceful but emotional”",
+    "isFake": true
+  },
+  {
+    "headline": "England town votes to rename itself “Steve” after local legend",
+    "isFake": true
+  },
+  {
+    "headline": "North Korea claims to have invented jazz",
+    "isFake": true
+  },
+  {
+    "headline": "A judge sides with parents and rules their 30-year-old-son must move out",
+    "isFake": false
+  },
+  {
+    "headline": "L’Oreal brand ambassador says people using their products are probably ugly",
+    "isFake": true
+  },
+  {
+    "headline": "Polygamist women dressed 'like ninjas' attack home of witness in Utah sex assault case",
+    "isFake": false
+  },
+  {
+    "headline": "Zebra shot dead after causing accident on German autobahn",
+    "isFake": false
+  },
+  {
+    "headline": "Man Struck By Lightning In Scrotum",
+    "isFake": false
+  },
+  {
+    "headline": "Man stabbed after sign language mistaken for gang signs",
+    "isFake": false
+  },
+  {
+    "headline": "Politician insists expense claim for strip club was “strictly work-related”",
+    "isFake": true
+  },
+  {
+    "headline": "15-year-old boy accidentally shoots self while taking selfie",
+    "isFake": false
+  },
+  {
+    "headline": "Study finds that people scrolling in bed lose their hair at a faster rate",
+    "isFake": true
+  },
+  {
+    "headline": "Trained mouse caught smuggling drugs through Brazilian prison",
+    "isFake": false
+  },
+  {
+    "headline": "Anti-Nazi Dog Given Medal of Honour",
+    "isFake": true
+  },
+  {
+    "headline": "Google accidentally emails 100 million users “asdfg”",
+    "isFake": true
+  },
+  {
+    "headline": "Man sues psychic for failing to predict he’d file lawsuit",
+    "isFake": true
+  },
+  {
+    "headline": "Hundreds lose their driving licenses during Oktoberfest e-scooter mayhem",
+    "isFake": false
+  },
+  {
+    "headline": "Thailand introduces “selfie zones” in temples",
+    "isFake": true
+  },
+  {
+    "headline": "Noodle Shop Owner Arrested After Putting Opium In Noodles So Customers Get Addicted",
+    "isFake": false
+  },
+  {
+    "headline": "Canadian teacher suspended for assigning essay on “QAnon”",
+    "isFake": true
+  },
+  {
+    "headline": "Study of self-driving cars shows other drivers are good at hitting them",
+    "isFake": false
+  },
+  {
+    "headline": "Report shows 60% of emails are just empty jargon and filler",
+    "isFake": true
+  },
+  {
+    "headline": "Nintendo confirms the Star Fox series will not return after “disturbing fan art”",
+    "isFake": true
+  },
+  {
+    "headline": "Netflix adds feature to replace mention of any brands in shows with Netflix’s partner brands",
+    "isFake": true
+  },
+  {
+    "headline": "Cops: Man driving 112 mph was heading to pay speeding ticket",
+    "isFake": false
+  },
+  {
+    "headline": "WTA set to finally crack down on grunting in women's tennis",
+    "isFake": false
+  },
+  {
+    "headline": "Parents Billed $132,000 After Child Breaks Art Piece",
+    "isFake": false
+  },
+  {
+    "headline": "Filipe Luís banned from FIFA after selling vapes to children",
+    "isFake": true
+  },
+  {
+    "headline": "Hurricane victims call sex hotline after FEMA mistakenly tweets wrong number",
+    "isFake": false
+  },
+  {
+    "headline": "No, Seriously. A Goat Arrested, Then Gets Bail In Chhattisgarh.",
+    "isFake": false
+  },
+  {
+    "headline": "Online dating is saving the ancient Zoroastrian religion",
+    "isFake": false
+  },
+  {
+    "headline": "YouTuber claims his video about faking disability was “taken out of context”",
+    "isFake": true
+  },
+  {
+    "headline": "Fed up with his commute, Munich man now swims to work every day",
+    "isFake": false
+  },
+  {
+    "headline": "Baseball team forfeits championship game rather than play with a girl",
+    "isFake": false
+  },
+  {
+    "headline": "One-armed Belarus man arrested for clapping",
+    "isFake": false
+  },
+  {
+    "headline": "Brisbane restaurant “Greedy Pigs” introduces 10kg bowl of “slop”",
+    "isFake": true
+  },
+  {
+    "headline": "Israeli minister uses onion to fake crying to lament Rabbi's death",
+    "isFake": false
+  },
+  {
+    "headline": "Motel Owner Wants to Be Seen as ‘Sex Researcher’ After Secretly Watching Guests Have Sex for 30 Years",
+    "isFake": false
+  },
+  {
+    "headline": "Japan’s oldest woman registers for preschool",
+    "isFake": true
+  },
+  {
+    "headline": "Woman claims Siri commanded her to break up with boyfriend",
+    "isFake": true
+  },
+  {
+    "headline": "China introduces “anti-procrastination” app that locks phone after 1 hour of scrolling",
+    "isFake": true
+  },
+  {
+    "headline": "Sexual Abuse by Guards May Violate Inmates Rights, Court Says",
+    "isFake": false
+  },
+  {
+    "headline": "Amazon warehouse worker urinates in boss’s coffee",
+    "isFake": true
+  },
+  {
+    "headline": "Historian reveal Genghis Khan was terrible at math",
+    "isFake": true
+  },
+  {
+    "headline": "Ferry McFerryface Explodes In Freak Accident On Darling Harbour",
+    "isFake": true
+  },
+  {
+    "headline": "Amazon accidentally delivers 400 lawn chairs to single apartment",
+    "isFake": true
+  },
+  {
+    "headline": "Czech Republic nuclear power station hosts bikini contest to choose interns",
+    "isFake": false
+  },
+  {
+    "headline": "New Yorkers Go 24 Hours Without Shooting, Stabbing, Or Slashing Each Other",
+    "isFake": false
+  },
+  {
+    "headline": "Former Belgian King fined $5k a day until he takes Paternity test",
+    "isFake": false
+  },
+  {
+    "headline": "Muslim Woman Denied Soda Can for Fear She Could Use It as a Weapon",
+    "isFake": false
+  },
+  {
+    "headline": "Ted Cruz: ‘Star Trek’s Captain Kirk was probably a Republican",
+    "isFake": false
+  },
+  {
+    "headline": "Man sues Apple for making him unpopular on dating apps after buying Android",
+    "isFake": true
+  },
+  {
+    "headline": "7,500 Online Shoppers Unknowingly Sold Their Souls",
+    "isFake": false
+  },
+  {
+    "headline": "Elon Musk announces Mars will have “no HOA fees”",
+    "isFake": true
+  },
+  {
+    "headline": "Last 2 Speakers Of Dying Language Won't Speak To Each Other",
+    "isFake": false
+  },
+  {
+    "headline": "Far-right German candidate promises to get rid of kebab shops",
+    "isFake": true
+  },
+  {
+    "headline": "Russian space agency loses satellite after engineer “forgot password”",
+    "isFake": true
+  },
+  {
+    "headline": "Second Grader Written Up for 'Seeing' Gun in the Clouds",
+    "isFake": false
+  },
+  {
+    "headline": "Amazon drone delivers bag of faeces to Idaho resident",
+    "isFake": true
+  },
+  {
+    "headline": "Gang member mistakenly kills one of his own for wearing the wrong colors, police says",
+    "isFake": false
+  },
+  {
+    "headline": "China Decides to Ban Time Travel",
+    "isFake": false
+  },
+  {
+    "headline": "FBI Director: Don't let weed stop you from applying to the FBI",
+    "isFake": false
+  },
+  {
+    "headline": "80-year-old Japanese grandmother gets world record in the video game Shawarma Legend",
+    "isFake": true
+  },
+  {
+    "headline": "Homeless man spends months living inside IKEA; staff doesn’t notice",
+    "isFake": true
+  },
+  {
+    "headline": "Women warned not to use ice lollies internally on hot day",
+    "isFake": false
+  },
+  {
+    "headline": "Smash Mouth singer goes on tirade, attempts to fight fans after being pelted with loaves of bread",
+    "isFake": false
+  },
+  {
+    "headline": "Louis Farrakhan denies antisemitism – then refers to 'Satanic Jews'",
+    "isFake": false
+  },
+  {
+    "headline": "US Congress candidate Denver Riggleman exposed as 'Bigfoot erotica' devotee",
+    "isFake": false
+  },
+  {
+    "headline": "Wife crashes her own funeral, horrifying her husband, who had paid to have her killed",
+    "isFake": false
+  },
+  {
+    "headline": "A woman went to the hospital to give birth, woke up missing all her limbs. The hospital refused to tell her what happened.",
+    "isFake": false
+  },
+  {
+    "headline": "“It's just a bump in the road” says Fairfax CEO after shares fall 87%",
+    "isFake": true
+  },
+  {
+    "headline": "An ambulance company claims its rival slashed brake lines and shot out windows, lawsuit says",
+    "isFake": false
+  },
+  {
+    "headline": "Spotify glitch plays same Drake song for 12 hours",
+    "isFake": true
+  },
+  {
+    "headline": "Police: Aunt Shoots Niece Dead Hours After Wedding, Over Argument About Who’s Driving Home",
+    "isFake": false
+  },
+  {
+    "headline": "Janitor fired from position after declaring “war is bad and people shouldn't be killed”",
+    "isFake": true
+  },
+  {
+    "headline": "Police send Christmas cards urging suspects to give themselves up",
+    "isFake": false
+  },
+  {
+    "headline": "Cats understand their names and are probably just choosing to ignore you, a study suggests",
+    "isFake": false
+  },
+  {
+    "headline": "Lil Wayne Attended an Anti-Violence Charity Basketball Game &amp; Fought a Referee",
+    "isFake": false
+  },
+  {
+    "headline": "One Nation candidate Stephanie Banister 'doesn't oppose Islam as a country'",
+    "isFake": false
+  },
+  {
+    "headline": "Man Dives Into Raging River and Swims 2km To Escape Wife’s Nagging",
+    "isFake": false
+  },
+  {
+    "headline": "Obama asks Germany “to give us the benefit of the doubt” on NSA spying",
+    "isFake": false
+  },
+  {
+    "headline": "School to stop spanking pupils on their birthdays after parents complain",
+    "isFake": false
+  },
+  {
+    "headline": "UK Prime Minister forgets microphone is on, mutters “I hate these briefings”",
+    "isFake": true
+  },
+  {
+    "headline": "A Third of Americans Want to Tax Hipsters for ‘Being so Annoying’",
+    "isFake": false
+  },
+  {
+    "headline": "Trump tweets image of Obama controlling drone",
+    "isFake": true
+  },
+  {
+    "headline": "One-armed man applauds the kindness of strangers",
+    "isFake": false
+  },
+  {
+    "headline": "Paramount sued for not putting enough product placement in Transformers 4",
+    "isFake": false
+  },
+  {
+    "headline": "Elon Musk announces plan to “phase out Mondays” by 2027",
+    "isFake": true
+  },
+  {
+    "headline": "Customers continued to wait at drive-thru even though restaurant was on fire",
+    "isFake": false
+  },
+  {
+    "headline": "Australian disability conference not wheelchair accessible",
+    "isFake": false
+  },
+  {
+    "headline": "Swedish meatball admission: They're Turkish",
+    "isFake": false
+  },
+  {
+    "headline": "Prime Minister defends use of private jet for “climate summit logistics”",
+    "isFake": true
+  },
+  {
+    "headline": "Utah paperboy, 14, attacked by ferocious goat named Voldemort",
+    "isFake": false
+  },
+  {
+    "headline": "Hapless farmer gets cute puppy to look after his sheep – turns out to be a wolf",
+    "isFake": false
+  },
+  {
+    "headline": "Australia Post apologises after delivering letter 41 years late",
+    "isFake": true
+  },
+  {
+    "headline": "Zach Braff Discovered He’s Being Used To Advertise Erection Pills In Ukraine",
+    "isFake": false
+  },
+  {
+    "headline": "Facebook Marketplace user lists friendship for sale, receives 1049 offers",
+    "isFake": true
+  },
+  {
+    "headline": "Brazilian president says country must reduce numbers of penis amputations",
+    "isFake": false
+  },
+  {
+    "headline": "Meta defends removing “users will never be harmed” from mission statement",
+    "isFake": true
+  },
+  {
+    "headline": "South Korea to Inflict K-Pop Blasts on Kim Jong Un for Nuke Test",
+    "isFake": false
+  },
+  {
+    "headline": "Australian man shrugs off bite from deadly snake with a cold beer",
+    "isFake": false
+  },
+  {
+    "headline": "Facebook CEO Admits To Calling Users ‘Dumb Fucks’",
+    "isFake": false
+  },
+  {
+    "headline": "Burglar takes selfie during store robbing and inadvertently leaves phone at scene, leading to his arrest",
+    "isFake": false
+  },
+  {
+    "headline": "'Seductive' dress gets girl barred from chess tournament",
+    "isFake": false
+  },
+  {
+    "headline": "Theme park offering fake thugs you can 'beat up' to impress your girlfriend",
+    "isFake": false
+  },
+  {
+    "headline": "School District Wants to Censor American History Curriculum to Make It More Patriotic",
+    "isFake": false
+  },
+  {
+    "headline": "“On reflection, it probably wasn't the best decision” - man regrets buying 7,000 Lance Armstrong cycling tips DVDs",
+    "isFake": false
+  },
+  {
+    "headline": "Georgia attorney killed man after golf ball hit Mercedes, DA says",
+    "isFake": false
+  },
+  {
+    "headline": "McDonald’s worker leaves signed selfies in Happy Meals",
+    "isFake": true
+  },
+  {
+    "headline": "Indian train delayed after conductor attacked by tiger cub",
+    "isFake": true
+  },
+  {
+    "headline": "Starbucks Japan launches seasonal drink inspired by “regret”",
+    "isFake": true
+  },
+  {
+    "headline": "Many of your friends probably don't think you're friends, study says",
+    "isFake": false
+  },
+  {
+    "headline": "Crystal Methvin arrested in Florida after allegations of crystal meth possession",
+    "isFake": false
+  },
+  {
+    "headline": "Betsy DeVos says safety committee formed after school shootings won't study guns",
+    "isFake": false
+  },
+  {
+    "headline": "AIDS denying magazine shut down after all of their editors died of AIDS",
+    "isFake": false
+  },
+  {
+    "headline": "Orlando introduces fine for “being a buzzkill”",
+    "isFake": true
+  },
+  {
+    "headline": "Xi Jinping Named The Sexiest Man in China",
+    "isFake": true
+  },
+  {
+    "headline": "Man killed in Oklahoma by an “atomic wedgie”",
+    "isFake": false
+  },
+  {
+    "headline": "Purple Wiggle refuses to attend reunion after Red Wiggle slept with his wife",
+    "isFake": true
+  },
+  {
+    "headline": "Paris fashion show evacuated after model’s dress blinds audience member",
+    "isFake": true
+  },
+  {
+    "headline": "Australian farmer paints cows green to avoid theft",
+    "isFake": true
+  },
+  {
+    "headline": "One-Year-Old boy Attains Puberty",
+    "isFake": false
+  },
+  {
+    "headline": "New Zealand airline apologizes for “emotional baggage fee” joke",
+    "isFake": true
+  },
+  {
+    "headline": "Otter Shot Dead After Escaping From Zoo",
+    "isFake": true
+  },
+  {
+    "headline": "North Korea Launches Tourism Site — Weeks After Jailed U.S. Tourist's Death",
+    "isFake": false
+  },
+  {
+    "headline": "Microsoft introduces Windows 11, promises it won’t update during meetings",
+    "isFake": true
+  },
+  {
+    "headline": "Swim Instructor’s Man Boobs Should Be Covered Around My Daughter",
+    "isFake": false
+  },
+  {
+    "headline": "Robot being trained to shoot guns is ‘not a terminator’, insists Russian deputy prime minister",
+    "isFake": false
+  },
+  {
+    "headline": "TikTok on blast after trend causes teen pregnancy to skyrocket in Sandwich, Massachusetts",
+    "isFake": true
+  },
+  {
+    "headline": "Experts divided over whether pigeons are considered cute animals",
+    "isFake": true
+  },
+  {
+    "headline": "North Korea denies anthrax production, invites Obama to verify",
+    "isFake": false
+  },
+  {
+    "headline": "Pakistan Lifts YouTube Ban, for 3 Minutes",
+    "isFake": false
+  },
+  {
+    "headline": "Teenagers watch Breaking Bad to learn to make meth, cause chemical fire",
+    "isFake": true
+  },
+  {
+    "headline": "YouTuber builds functioning weapon out of LEGO, accidentally hurts himself",
+    "isFake": true
+  },
+  {
+    "headline": "Even Fox News Is Outraged At Trump's Plan To Cancel Funding For Schools",
+    "isFake": true
+  },
+  {
+    "headline": "Student shot at school gets detention for taking part in school-shooting protest",
+    "isFake": false
+  },
+  {
+    "headline": "Wiener gets public nudity banned in San Francisco",
+    "isFake": false
+  },
+  {
+    "headline": "Woman left infant in hot car for strip club audition",
+    "isFake": false
+  },
+  {
+    "headline": "Online Seller Travels 860km To Beat Up Customer Who Complained About Late Delivery",
+    "isFake": false
+  },
+  {
+    "headline": "Netflix reverses penguin logo change after backlash",
+    "isFake": true
+  },
+  {
+    "headline": "California startup offers service for writing apologies",
+    "isFake": true
+  },
+  {
+    "headline": "Reddit bans subreddit dedicated to complaining about Reddit bans",
+    "isFake": true
+  },
+  {
+    "headline": "When she says, \"It's not you, it's me,\" it really might be you, UCLA study suggests.",
+    "isFake": false
+  },
+  {
+    "headline": "YouTuber spends 30 days eating only food that starts with “Z”",
+    "isFake": true
+  },
+  {
+    "headline": "Ebola Nurse: Stop calling me the 'Ebola Nurse'",
+    "isFake": false
+  },
+  {
+    "headline": "Millions of Facebook users have no idea they’re using the internet",
+    "isFake": false
+  },
+  {
+    "headline": "TikTok banned in Andorra after Prime Minister is bullied in trend",
+    "isFake": true
+  },
+  {
+    "headline": "Caffeine Withdrawal Is Now a Mental Disorder",
+    "isFake": false
+  },
+  {
+    "headline": "Vatican denies rumors of Pope’s League of Legends account",
+    "isFake": true
+  },
+  {
+    "headline": "Prince Harry says he sometimes misses anonymity of being only moderately famous",
+    "isFake": true
+  },
+  {
+    "headline": "On This United Airlines Flight, an Emotional Support Animal Had Its Own Emotional Support Animal",
+    "isFake": false
+  },
+  {
+    "headline": "TikTok user hospitalized after attempting “reverse breathing” trend",
+    "isFake": true
+  },
+  {
+    "headline": "Cops bring suicidal man to get help, then beat the crap out of him, FBI says",
+    "isFake": false
+  },
+  {
+    "headline": "Report shows teenagers now consider 2020 a retro aesthetic",
+    "isFake": true
+  },
+  {
+    "headline": "Users claim Spotify Wrapped is “emotionally manipulative”",
+    "isFake": true
+  },
+  {
+    "headline": "PayPal accidentally make user richest man in the world after crediting account with $92 quadrillion",
+    "isFake": false
+  },
+  {
+    "headline": "Man calls police to report ex-girlfriend for overfeeding hamster leaving him 'looking like a fat little pig'",
+    "isFake": false
+  },
+  {
+    "headline": "Automated cat girl cafe unveiled in Tokyo, with no cats or girls",
+    "isFake": true
+  },
+  {
+    "headline": "Police Officer Accidentally Handcuffs Himself To Railings",
+    "isFake": false
+  },
+  {
+    "headline": "Microsoft Windows developer admits Clippy was based on his nagging wife",
+    "isFake": true
+  },
+  {
+    "headline": "Satanic prayer disrupted at council meeting",
+    "isFake": false
+  },
+  {
+    "headline": "Survey shows one in five adults believes the moon landing was accomplished by China",
+    "isFake": true
+  },
+  {
+    "headline": "Principal Suspended After Purchasing MMA Ring For Students",
+    "isFake": true
+  },
+  {
+    "headline": "Man Googles himself, finds he’s among ‘Most Wanted,’ promptly surrenders",
+    "isFake": false
+  },
+  {
+    "headline": "Google Maps directs tourists into South Korean military base",
+    "isFake": true
+  },
+  {
+    "headline": "Report finds most office workers spend 1 hour daily ordering food",
+    "isFake": true
+  },
+  {
+    "headline": "Spotify Wrapped to include “performative male” personality type",
+    "isFake": true
+  },
+  {
+    "headline": "Judge to NYPD: Stop arresting people for trespassing in their own homes",
+    "isFake": false
+  },
+  {
+    "headline": "Amazon delivery drone shot down in Ohio",
+    "isFake": true
+  },
+  {
+    "headline": "DoD bought phony military gear made in China, including counter-night vision clothing that didn’t actually work",
+    "isFake": false
+  },
+  {
+    "headline": "Kasich: Women 'Left Their Kitchens' to Help Me Get Elected",
+    "isFake": false
+  },
+  {
+    "headline": "Chinese zoo angers visitors by passing off hairy Tibetan mastiff dog as lion",
+    "isFake": false
+  },
+  {
+    "headline": "Google experiments with a “vibe” score on search results",
+    "isFake": true
+  },
+  {
+    "headline": "Amazon warehouse worker trapped in container, gets shipped to Canada",
+    "isFake": true
+  },
+  {
+    "headline": "Burger King CEO says AI will design “the perfect Whopper recipe” by 2030",
+    "isFake": true
+  },
+  {
+    "headline": "Why I Think Babies Shouldn’t Be Allowed In Coffee Shops",
+    "isFake": true
+  },
+  {
+    "headline": "Build-A-Bear 'pay your age' offer abandoned amid 'chaos'",
+    "isFake": false
+  },
+  {
+    "headline": "Deadly Shooting Update: Deputy Thought He Pulled Taser Instead of Gun",
+    "isFake": false
+  },
+  {
+    "headline": "Lancaster School ID Badges Seem To Show Phone Sex Line Number Instead Of Suicide Prevention Hotline",
+    "isFake": false
+  },
+  {
+    "headline": "North Korea's Kim Jong Un Spends Most of His Time Eating Cheese and Plotting Against the West",
+    "isFake": false
+  },
+  {
+    "headline": "Tudder: the Tinder for cattle helping cows meet their ideal bull",
+    "isFake": false
+  },
+  {
+    "headline": "Man accused of shoplifting from Finders Keepers says store name misleading",
+    "isFake": false
+  },
+  {
+    "headline": "Costco announces company to open an OnlyFans page",
+    "isFake": true
+  },
+  {
+    "headline": "Vatican launches official mobile confession app",
+    "isFake": true
+  },
+  {
+    "headline": "Disney confirms new live action Mickey Mouse show in early production",
+    "isFake": true
+  },
+  {
+    "headline": "Comedian selling his mother's ashes on eBay and donating proceeds to charity",
+    "isFake": false
+  },
+  {
+    "headline": "Manchester pub instates “fun police” after too many complaints",
+    "isFake": true
+  },
+  {
+    "headline": "Queen Elizabeth’s corgi statue peed on by dogs walking past",
+    "isFake": true
+  },
+  {
+    "headline": "Church of the Flying Spaghetti Monster conducts legal wedding in New Zealand",
+    "isFake": false
+  },
+  {
+    "headline": "HUD Secretary Ben Carson mixes up real estate term and Oreo sandwich cookies",
+    "isFake": false
+  },
+  {
+    "headline": "Reddit CEO Ellen Pao Reveals She Hates Redditors",
+    "isFake": true
+  },
+  {
+    "headline": "Suspended St. Louis Police Officer: \"I'm Into Diversity, I Kill Everybody\"",
+    "isFake": false
+  },
+  {
+    "headline": "NSW Police warn residents not to approach kangaroos in heat",
+    "isFake": true
+  },
+  {
+    "headline": "Experts warn climate change may make spiders “too fertile”",
+    "isFake": true
+  },
+  {
+    "headline": "Bronx gym teacher was fired after refusing to have threesome with her tenured boss and her boyfriend",
+    "isFake": false
+  },
+  {
+    "headline": "Taliban Kill Clown In Street Shooting",
+    "isFake": true
+  },
+  {
+    "headline": "Thieves Steal $500,000 In Medical Equipment Loaded With Flesh-Eating Bacteria",
+    "isFake": false
+  },
+  {
+    "headline": "Handyman kidnapped, forced to do repair jobs",
+    "isFake": false
+  },
+  {
+    "headline": "Want to prevent cancer? Drink water, say experts",
+    "isFake": true
+  },
+  {
+    "headline": "Barcelona school blames poor grades on Mercury retrograde",
+    "isFake": true
+  },
+  {
+    "headline": "‘Fifty Shades of Grey’ Sex Toys Now Available at Target Stores",
+    "isFake": false
+  },
+  {
+    "headline": "NASA confirms Mars space rock “looks like a rock”",
+    "isFake": true
+  },
+  {
+    "headline": "Sydney restaurant fined for selling “air-based cuisine”",
+    "isFake": true
+  },
+  {
+    "headline": "ISIS whips 5 men for using flush toilet instead of squat toilet",
+    "isFake": false
+  },
+  {
+    "headline": "United Airlines flight diverted after crew forget food",
+    "isFake": true
+  },
+  {
+    "headline": "IKEA discontinues chair that looked suspiciously like a butt",
+    "isFake": true
+  },
+  {
+    "headline": "Starbucks introduces “Mood Cup” that tracks emotional state throughout the day",
+    "isFake": true
+  },
+  {
+    "headline": "'Holy Spirit' saves German driver from speeding fine",
+    "isFake": false
+  },
+  {
+    "headline": "Shia LaBeouf opens a gym in California: Shia LaBuff",
+    "isFake": true
+  },
+  {
+    "headline": "Chicago man stuck in revolving door for 2 hours",
+    "isFake": true
+  },
+  {
+    "headline": "Tesla driver caught napping while car speeds",
+    "isFake": true
+  },
+  {
+    "headline": "Man in Berlin arrested for trying to pay tax bill with pizza",
+    "isFake": true
+  },
+  {
+    "headline": "Woman leaves dogs in car; dogs crash it into Walmart",
+    "isFake": false
+  },
+  {
+    "headline": "North Korea 'feeding workers crystal meth' to speed up skyscraper project",
+    "isFake": false
+  },
+  {
+    "headline": "Penguins at London Zoo form violent gang",
+    "isFake": true
+  },
+  {
+    "headline": "Anti-gun activist shot dead in Florida",
+    "isFake": true
+  },
+  {
+    "headline": "Woman claims her Alexa proposed marriage: “How did it know I’m a lesbian?”",
+    "isFake": true
+  },
+  {
+    "headline": "UK says will pay off part of World War One-era debt next year",
+    "isFake": false
+  },
+  {
+    "headline": "Swedish high school forgets to offer class required for graduation",
+    "isFake": false
+  },
+  {
+    "headline": "'I love digging': 89-year-old man digs his own grave",
+    "isFake": false
+  },
+  {
+    "headline": "Woman wins court case against psychic who “didn’t see it coming”",
+    "isFake": true
+  },
+  {
+    "headline": "Queen Elizabeth reportedly furious over corgi memes",
+    "isFake": true
+  },
+  {
+    "headline": "Mom’s kiss more effective than homeopathy in treating children’s pain",
+    "isFake": false
+  },
+  {
+    "headline": "New York lawmakers pass bill banning police from having sex with people in custody",
+    "isFake": false
+  },
+  {
+    "headline": "Taco Bell admits to have tested licorice tacos on humans",
+    "isFake": true
+  },
+  {
+    "headline": "Police arrest man for stealing his own car back from thief",
+    "isFake": true
+  },
+  {
+    "headline": "Police called on group of clowns in train travelling to circus",
+    "isFake": true
+  },
+  {
+    "headline": "Air Force Removes God From Chain of Command",
+    "isFake": false
+  },
+  {
+    "headline": "Two People Accidentally Shot At A Gun Show Safety Checkpoint On Gun Appreciation Day",
+    "isFake": false
+  },
+  {
+    "headline": "OH school assignment asks students to decide who 'deserves' to survive 'doomed Earth' based on race, religion, sexuality",
+    "isFake": false
+  },
+  {
+    "headline": "Steve Harvey's new show Funderdome gets leaked, no-one downloads it",
+    "isFake": false
+  },
+  {
+    "headline": "Student hits a deer on his driving test... but still passes",
+    "isFake": false
+  },
+  {
+    "headline": "Blame millennials for the vanishing bar of soap",
+    "isFake": false
+  },
+  {
+    "headline": "Venezuela seizes Christmas toys to distribute to poor",
+    "isFake": false
+  },
+  {
+    "headline": "UK MI6 agent zipped himself in a duffel bag, put a padlock on it from the outside and died, all while in a bathtub - authorities do not think he was murdered",
+    "isFake": false
+  },
+  {
+    "headline": "Absurd: Irish man insists ghosts keep causing his car to speed",
+    "isFake": true
+  },
+  {
+    "headline": "Government cut disability benefits of man with no legs 'because he could climb stairs with his arms'",
+    "isFake": false
+  },
+  {
+    "headline": "Survey reveals people feel judged by robot vacuum cleaners",
+    "isFake": true
+  },
+  {
+    "headline": "Papa John's blames NFL, anthem protests for falling pizza sales",
+    "isFake": false
+  },
+  {
+    "headline": "New York Zoo apologizes after teens found smoking in gorilla enclosure",
+    "isFake": true
+  },
+  {
+    "headline": "Hunter Dies when Shot Elephant Falls on Him",
+    "isFake": false
+  },
+  {
+    "headline": "Police in Dublin issue warning about aggressive swans stealing items",
+    "isFake": true
+  },
+  {
+    "headline": "Unprecedented telemarketing violation case could lead to trillion dollar fine",
+    "isFake": false
+  },
+  {
+    "headline": "NYC Makes 11th Avenue One Way With No Warning, Then Tickets Drivers For Not Knowing",
+    "isFake": false
+  },
+  {
+    "headline": "Comcast Says No One Is More Dedicated To Net Neutrality Than It Is",
+    "isFake": false
+  },
+  {
+    "headline": "UK weather forecaster resigns after predicting rain 100 days straight",
+    "isFake": true
+  },
+  {
+    "headline": "Facebook introduces “ghost mode” that lets you stalk old posts without being detected",
+    "isFake": true
+  },
+  {
+    "headline": "Saudi Prince: “Oil too expensive”",
+    "isFake": true
+  },
+  {
+    "headline": "Dog's 'cancer' turns out to be four teddy bears",
+    "isFake": false
+  },
+  {
+    "headline": "Street magician tries to take down the mafia",
+    "isFake": true
+  },
+  {
+    "headline": "Teen Burglar Kills Goldfish Because He Didn't Want To Leave Any Witnesses.",
+    "isFake": false
+  },
+  {
+    "headline": "President of Iceland caught editing his own Wikipedia page",
+    "isFake": true
+  },
+  {
+    "headline": "US senator denies playing Candy Crush during budget hearing",
+    "isFake": true
+  },
+  {
+    "headline": "Wolves and hyenas hunt together, prove Middle East peace is possible",
+    "isFake": false
+  },
+  {
+    "headline": "South Korea Blasts ‘We Are the Champions’ at North Korea Border",
+    "isFake": false
+  },
+  {
+    "headline": "Kindergartner arrested for public nudity",
+    "isFake": true
+  },
+  {
+    "headline": "Japanese hotel prohibits residents from having sex",
+    "isFake": true
+  },
+  {
+    "headline": "Burger King launches video game console that will include Call of Duty at launch",
+    "isFake": true
+  },
+  {
+    "headline": "Man Wins Desperate Struggle to Free Penis From Toilet Python",
+    "isFake": false
+  },
+  {
+    "headline": "Texas lawmaker suggests Asians adopt easier names",
+    "isFake": false
+  },
+  {
+    "headline": "Elon Musk says Mars colony will have “no liberalism allowed” law",
+    "isFake": true
+  },
+  {
+    "headline": "Man blames autocorrect for texting boss “I quit, lol”",
+    "isFake": true
+  },
+  {
+    "headline": "Experts suggest 9 weed strains to get you through a presidential debate",
+    "isFake": false
+  },
+  {
+    "headline": "China lifts ban on rat meat",
+    "isFake": true
+  },
+  {
+    "headline": "Meat company bans animal testing, confuses everybody",
+    "isFake": false
+  },
+  {
+    "headline": "Uber driver arrested after picking food up from restaurant, accused of stealing",
+    "isFake": true
+  },
+  {
+    "headline": "Italian town bans selfies after mayor calls them “disgustingly egotistical”",
+    "isFake": true
+  },
+  {
+    "headline": "Teacher settles out-of-court for defamation case against child who “ruined his reputation”",
+    "isFake": true
+  },
+  {
+    "headline": "Norwegian pilot draws penis with flightpath over Sweden",
+    "isFake": false
+  },
+  {
+    "headline": "Microsoft apologizes after intern accidentally “likes” pornographic tweet",
+    "isFake": true
+  },
+  {
+    "headline": "Man stops at In-N-Out drive thru during police chase",
+    "isFake": false
+  },
+  {
+    "headline": "French bakery sued by Nintendo over Super Mario Dough flavour",
+    "isFake": true
+  },
+  {
+    "headline": "Justin Trudeau: I am not gay",
+    "isFake": true
+  },
+  {
+    "headline": "Spontaneous dancing still illegal in Sweden",
+    "isFake": false
+  },
+  {
+    "headline": "Report finds Gen Z spending more time naming group chats than talking in them",
+    "isFake": true
+  },
+  {
+    "headline": "Republican says poor children should be required to work for food",
+    "isFake": false
+  },
+  {
+    "headline": "Pope Francis enjoys using electric scooter around Vatican grounds",
+    "isFake": true
+  },
+  {
+    "headline": "Cats Can Help You Find A Partner, Study Finds",
+    "isFake": true
+  },
+  {
+    "headline": "'In Dog We Trust' Accidentally Printed on Sheriff's Rugs",
+    "isFake": false
+  },
+  {
+    "headline": "Cyclist’s Bike Stolen at Police Station while Reporting iPhone Theft",
+    "isFake": false
+  },
+  {
+    "headline": "Bernie Sanders expresses support for Katy Perry's music: “Young women need to be empowered”",
+    "isFake": true
+  },
+  {
+    "headline": "Euclid man accused of egging neighbor’s house more than 100 times",
+    "isFake": false
+  },
+  {
+    "headline": "China Bans Cars 3 After Claims It Contains American Propaganda",
+    "isFake": true
+  },
+  {
+    "headline": "Zuckerberg Forced To Sell Meta Quest At Retail Price",
+    "isFake": true
+  },
+  {
+    "headline": "UCLA introduces degree in “esports”",
+    "isFake": true
+  },
+  {
+    "headline": "West Barnstable restaurant replaces waiters with Roombas",
+    "isFake": true
+  },
+  {
+    "headline": "Fitbit releases new tracking collar for dogs",
+    "isFake": true
+  },
+  {
+    "headline": "Starbucks apologizes after labeling Muslim customer’s drink “Hamas”, claims it was a mistake",
+    "isFake": true
+  },
+  {
+    "headline": "Woman discovers her boss was actually an AI chatbot.",
+    "isFake": true
+  },
+  {
+    "headline": "Woman discovers husband cheating on Zillow listing",
+    "isFake": true
+  },
+  {
+    "headline": "Celebrity chef admits to plagiarising recipe from Indian woman",
+    "isFake": true
+  },
+  {
+    "headline": "Jordan Peterson endorses motivational mirror that shows you mean messages in the morning",
+    "isFake": true
+  },
+  {
+    "headline": "#MilkCum mocks milk lobbyists claim that drinking milk improves libido",
+    "isFake": true
+  },
+  {
+    "headline": "Fox News Contributor Reveals She Gets Her News From CNN",
+    "isFake": false
+  },
+  {
+    "headline": "Officer who tried to apologize with ‘Sorry I tased you’ cake placed on probation",
+    "isFake": false
+  },
+  {
+    "headline": "Austrian teacher receives warning after killing rabbits in front of class",
+    "isFake": false
+  },
+  {
+    "headline": "McDonald’s introduces loyalty points redeemable for personal training sessions",
+    "isFake": true
+  },
+  {
+    "headline": "Deputies ask man to quit calling about his stolen marijuana",
+    "isFake": false
+  },
+  {
+    "headline": "Mayor of Toronto accidentally approves $1 billion skate park budget proposal",
+    "isFake": true
+  },
+  {
+    "headline": "Liechtenstein bans parents from giving babies Chinese names",
+    "isFake": true
+  },
+  {
+    "headline": "Woman sues dating app after matching with her estranged father",
+    "isFake": true
+  },
+  {
+    "headline": "Paris café charges extra for customers who cannot order in French",
+    "isFake": true
+  },
+  {
+    "headline": "Alberta minister apologizes for calling B.C. government 'a bunch of shitheads'",
+    "isFake": false
+  },
+  {
+    "headline": "Students Across US Now Majoring In Sex",
+    "isFake": true
+  },
+  {
+    "headline": "Jeff Bezos accidentally donates $300,000 to Strippers Without Borders",
+    "isFake": true
+  },
+  {
+    "headline": "Even Fox News is outraged at Boehner and Netanyahu's plan to undermine Obama",
+    "isFake": false
+  },
+  {
+    "headline": "Men Are More Satisfied By ‘Bromances’ Than Their Romantic Relationships, Study Says",
+    "isFake": false
+  },
+  {
+    "headline": "US senator endorses meme coin during live hearing",
+    "isFake": true
+  },
+  {
+    "headline": "Scientists say some trees may have friends",
+    "isFake": true
+  },
+  {
+    "headline": "Alabama Lawmaker: We Shouldn't Arm Teachers Because Most Are Women",
+    "isFake": false
+  },
+  {
+    "headline": "Ferry McFerryface has Ferry McFucked itself into a warf",
+    "isFake": false
+  },
+  {
+    "headline": "Did Gay Sex Cause Hurricane Harvey Or Was It Climate Change? Some On The Right Blame LGBT Americans",
+    "isFake": false
+  },
+  {
+    "headline": "Amazon charges family $20k after accidentally sending 10,000 toothbrushes instead of one",
+    "isFake": true
+  },
+  {
+    "headline": "Man wins marathon after all other runners quit to go to the pub",
+    "isFake": true
+  },
+  {
+    "headline": "Burger King promotion offers therapy session with every Whopper",
+    "isFake": true
+  },
+  {
+    "headline": "Taylor Swift denies secretly owning a small town in Tennessee",
+    "isFake": true
+  },
+  {
+    "headline": "Cop Shot Litter of Kittens in Front of Screaming Children",
+    "isFake": false
+  },
+  {
+    "headline": "CNN accidentally airs 30 minutes of non-stop hardcore porn",
+    "isFake": false
+  },
+  {
+    "headline": "Judge can’t end a trial just because he has ‘heard enough,’ appeal court rules",
+    "isFake": false
+  },
+  {
+    "headline": "Taylor Swift denies feature on drill rap song",
+    "isFake": true
+  },
+  {
+    "headline": "Hawaii may increase legal smoking age to 100",
+    "isFake": false
+  },
+  {
+    "headline": "Wild New Zealand rabbits surf on sheep to escape floodwaters",
+    "isFake": false
+  },
+  {
+    "headline": "Loud Rock Music Like AC/DC Can Hurt Animals, Ecosystem but Willie Nelson Has No Effect, Study Says",
+    "isFake": false
+  },
+  {
+    "headline": "Dog elected temporary mayor of Vermont town",
+    "isFake": true
+  },
+  {
+    "headline": "Priest Says He Needs To Stay In Ritz-Carlton, Because The Devil Can't Reach Him There",
+    "isFake": true
+  },
+  {
+    "headline": "Staff At Turkish Hotel Use Fake Guns To Stage Mock ISIS Attack On Brits",
+    "isFake": false
+  },
+  {
+    "headline": "Boston turns to porn after Game 6 loss in Stanley Cup Final",
+    "isFake": false
+  },
+  {
+    "headline": "Los Angeles man starts non-profit to share Netflix passwords",
+    "isFake": true
+  },
+  {
+    "headline": "Sheriff’s deputy has ex-wife arrested because he didn’t like what she wrote about him on Facebook",
+    "isFake": false
+  },
+  {
+    "headline": "Man who claims he travelled from the year 6491 'passes lie detector test'",
+    "isFake": false
+  },
+  {
+    "headline": "Flight attendant 'is sacked for causing chaos on the plane' after her boyfriend proposed to her at 30,000 feet",
+    "isFake": false
+  },
+  {
+    "headline": "YouTube removes video of 10-hours of silence for copyright infringement",
+    "isFake": true
+  },
+  {
+    "headline": "Lyrics to Carly Rae Jepsen's next single to be crowdsourced via online poll",
+    "isFake": false
+  },
+  {
+    "headline": "London marathon runner disqualified for taking “emotional shortcut”",
+    "isFake": true
+  },
+  {
+    "headline": "Woman who scammed scammer now charged with theft",
+    "isFake": false
+  },
+  {
+    "headline": "Tokyo subway introduces “nap cars” for commuters",
+    "isFake": true
+  },
+  {
+    "headline": "British woman marries oak tree",
+    "isFake": true
+  },
+  {
+    "headline": "Formula One chief Ecclestone offers $100 million to have bribery charges against him dropped",
+    "isFake": false
+  },
+  {
+    "headline": "Grocery Store losing $10-15k per month due to massive organized ring of Tide detergent thieves",
+    "isFake": false
+  },
+  {
+    "headline": "Man in Pig Mask Arrested for Impersonating Police Officer",
+    "isFake": false
+  },
+  {
+    "headline": "US ambassador gives 'Make Somalia Great Again' cap to the Somali President",
+    "isFake": false
+  },
+  {
+    "headline": "Politician denies allegations of sleeping through climate summit, says he was “reflecting deeply”",
+    "isFake": true
+  },
+  {
+    "headline": "Report: Player in Europe failed drug test because it showed he was pregnant",
+    "isFake": false
+  },
+  {
+    "headline": "Pokémon Go player stabbed, keeps playing",
+    "isFake": false
+  },
+  {
+    "headline": "Taylor Swift Inspires 10 Million Fans To Get A Colonoscopy",
+    "isFake": true
+  },
+  {
+    "headline": "Scientists teach dolphins to recognise emojis",
+    "isFake": true
+  },
+  {
+    "headline": "Melbourne couple fined for keeping emotional support peacock in apartment",
+    "isFake": true
+  },
+  {
+    "headline": "Man pulls pistol on St. Paul sex shop clerk, demands new penis pump",
+    "isFake": false
+  },
+  {
+    "headline": "Zoo under fire for replacing penguins with raccoons",
+    "isFake": true
+  },
+  {
+    "headline": "Father stabs son over the last beer",
+    "isFake": false
+  },
+  {
+    "headline": "Tests Confirm Liquid Thrown at California Senate Was Human Blood",
+    "isFake": false
+  },
+  {
+    "headline": "Kim Kardashian says she’s “open to dating Alien species”",
+    "isFake": true
+  },
+  {
+    "headline": "Leaked memo shows Netflix considering increased ad breaks during emotional scenes",
+    "isFake": true
+  },
+  {
+    "headline": "Australian council apologises after playground sculpture mistaken for a penis",
+    "isFake": true
+  },
+  {
+    "headline": "China: Diners charged 'air cleaning fee'",
+    "isFake": false
+  },
+  {
+    "headline": "Report finds 78% of people use “haha” when they don’t know how to respond",
+    "isFake": true
+  },
+  {
+    "headline": "Cats are nice and enjoy spending time with humans, study finds",
+    "isFake": false
+  },
+  {
+    "headline": "NAB Bank admits ATM cameras weren’t meant to be working",
+    "isFake": true
+  },
+  {
+    "headline": "Vatican launches official podcast called “Pope Francis and Friends”",
+    "isFake": true
+  },
+  {
+    "headline": "The government turns to Waffle House when tracking emergencies",
+    "isFake": false
+  },
+  {
+    "headline": "Teen wins science fair by claiming he created Tamagotchi",
+    "isFake": true
+  },
+  {
+    "headline": "Study finds people now trust AI chatbots more than parents",
+    "isFake": true
+  },
+  {
+    "headline": "Singapore Zoo to open first “quiet enclosure” for introverted animals",
+    "isFake": true
+  },
+  {
+    "headline": "Tesla Surges as Musk Tweets That He Deleted His Twitter Account",
+    "isFake": false
+  },
+  {
+    "headline": "Mgm Resorts Sues More Than 1,000 Las Vegas Shooting Victims To Avoid Liability In Massacre",
+    "isFake": false
+  },
+  {
+    "headline": "New Zealand government suspends plans for national nap time",
+    "isFake": true
+  },
+  {
+    "headline": "US State Department trolls Islamic State militants on Twitter",
+    "isFake": false
+  },
+  {
+    "headline": "“I'm not resigning,” says minister, moments before announcing resignation",
+    "isFake": true
+  },
+  {
+    "headline": "Boy with autism given 'most annoying' award by teacher, school board apologizes",
+    "isFake": false
+  },
+  {
+    "headline": "McDonald’s France to launch “McMeditation” booths for lunchtime calm",
+    "isFake": true
+  },
+  {
+    "headline": "Italy’s oldest barber retires after 75 years, says “hair stopped surprising me”",
+    "isFake": true
+  },
+  {
+    "headline": "BHP CEO claims children are “being paid to learn Marxist regimes” on Roblox",
+    "isFake": true
+  },
+  {
+    "headline": "‘Fear of Flying’ confidence flight was struck by lightning",
+    "isFake": false
+  },
+  {
+    "headline": "Experts concerned after seeing robotic-looking pigeons appear in tourist photos",
+    "isFake": true
+  },
+  {
+    "headline": "Apple Now Owns the Page Turn",
+    "isFake": false
+  },
+  {
+    "headline": "Coca-Cola announces production of NFT bottle caps",
+    "isFake": true
+  },
+  {
+    "headline": "Influencer Logan Paul claims he “invented coffee”",
+    "isFake": true
+  },
+  {
+    "headline": "Pakistani farmer claims his cow can perform mathematics",
+    "isFake": true
+  },
+  {
+    "headline": "Fisher-Price Unveils Toddler Exercise Bike",
+    "isFake": false
+  },
+  {
+    "headline": "Steve Jobs refused on/off switch for iPhone because he hoped there was an afterlife.",
+    "isFake": false
+  },
+  {
+    "headline": "Study shows 73% of people check the fridge when not hungry",
+    "isFake": true
+  },
+  {
+    "headline": "'Nine-month-old boy' accused of planning murder",
+    "isFake": false
+  },
+  {
+    "headline": "Touching pregnant ladies' tummies now illegal in Pennsylvania",
+    "isFake": false
+  },
+  {
+    "headline": "Jeff Bezos seen at Burning Man wearing Amazon Prime vest",
+    "isFake": true
+  },
+  {
+    "headline": "Pat Robertson Encourages Man To Become Muslim So He Can Beat His Wife",
+    "isFake": false
+  },
+  {
+    "headline": "“Vaccines made my dog autistic” says North Carolina woman",
+    "isFake": true
+  },
+  {
+    "headline": "Landlord discovers tenant died months ago, pursues rent due to lack of notice",
+    "isFake": true
+  },
+  {
+    "headline": "Buffalo Bills head coach apologises for using 9/11 hijackers as example of teamwork",
+    "isFake": false
+  },
+  {
+    "headline": "Police Fine Man €500 For 'Massive Intestinal Wind'",
+    "isFake": false
+  },
+  {
+    "headline": "Prime Minister refuses to confirm whether he stepped on endangered beetle",
+    "isFake": true
+  },
+  {
+    "headline": "Indian divorced couple sues astrologer for “inaccurate soulmate prediction”",
+    "isFake": true
+  },
+  {
+    "headline": "McDonald’s to test McDonald’s Premium subscription plan in select cities",
+    "isFake": true
+  },
+  {
+    "headline": "HBO Max accidentally uploads home video of employee instead of movie",
+    "isFake": true
+  },
+  {
+    "headline": "Mexican restaurant fined for serving “air tacos” priced at $8",
+    "isFake": true
+  },
+  {
+    "headline": "U.S. Government: Law Does Not Apply To The Government",
+    "isFake": true
+  },
+  {
+    "headline": "McDonald’s introduces salad made out of fries",
+    "isFake": true
+  },
+  {
+    "headline": "Man Sick Of Xbox Asks For Jail Instead Of Finishing House Arrest",
+    "isFake": false
+  },
+  {
+    "headline": "Bill Cosby says he is still 'America's Dad' in Father Day's tweet",
+    "isFake": false
+  },
+  {
+    "headline": "McDonald’s restaurant testing out all-you-can-eat french fries",
+    "isFake": false
+  },
+  {
+    "headline": "Man Who Took Poverty Vow Wins $259.8M Powerball Jackpot",
+    "isFake": false
+  },
+  {
+    "headline": "Japanese couple apologise for ignoring work pregnancy timetable by conceiving ‘before their turn’",
+    "isFake": false
+  },
+  {
+    "headline": "Why House MD Is An Important Allegory For Racism 20 Years Later",
+    "isFake": true
+  },
+  {
+    "headline": "Violence leads mayor to declare Walmart public nuisance",
+    "isFake": false
+  },
+  {
+    "headline": "Fury over arrest of academic who called Uganda's president a pair of buttocks",
+    "isFake": false
+  },
+  {
+    "headline": "Netflix film crews 'banned from looking at each other for longer than five seconds' in #metoo crackdown",
+    "isFake": false
+  },
+  {
+    "headline": "Study finds listening to rain sounds increases both productivity and sadness",
+    "isFake": true
+  },
+  {
+    "headline": "Entire Senior Class Denied their Diplomas for throwing their Graduation Caps in the Air",
+    "isFake": false
+  },
+  {
+    "headline": "Billionaire Romney Backer: \"The Ultrawealthy Have An ‘Insufficient Influence’ Over Politics\"",
+    "isFake": false
+  },
+  {
+    "headline": "Couple spends six months trying to cancel free trial",
+    "isFake": true
+  },
+  {
+    "headline": "Fans furious after Disney announces live-action remake of Finding Nemo",
+    "isFake": true
+  },
+  {
+    "headline": "McDonald’s tests new slogan on social media: “I’m enjoying it”",
+    "isFake": true
+  },
+  {
+    "headline": "Former basketball player Detlef Schrempf hacked after tweeting out his own password",
+    "isFake": true
+  },
+  {
+    "headline": "Woman bites into ‘waferless’ KitKat, demands lifetime supply",
+    "isFake": false
+  },
+  {
+    "headline": "Argument Over Fortnite Content Ends In Stabbing",
+    "isFake": true
+  },
+  {
+    "headline": "Apple to no longer include flash in devices “to save the planet”",
+    "isFake": true
+  },
+  {
+    "headline": "China bans reality show after contestants keep admitting to crimes",
+    "isFake": true
+  },
+  {
+    "headline": "Russia unveils new statue of Vladimir Putin, the statue rusts immediately",
+    "isFake": true
+  },
+  {
+    "headline": "San Antonio Officer Who Handed Feces Sandwich to Homeless Man Wins His Termination Appeal",
+    "isFake": false
+  },
+  {
+    "headline": "Investors Accidentally Fires Entire Company Via Email",
+    "isFake": false
+  },
+  {
+    "headline": "Mexican Drug Lord Officially Thanks American Lawmakers For Keeping Drugs Illegal",
+    "isFake": false
+  },
+  {
+    "headline": "New Jersey town installs traffic lights for the blind",
+    "isFake": true
+  },
+  {
+    "headline": "Pittsburgh Penguins fan stabbed in head refuses treatment until end of game",
+    "isFake": false
+  },
+  {
+    "headline": "US senator accidentally tweets message accepting bribe - blames “cat”",
+    "isFake": true
+  },
+  {
+    "headline": "Amazon patents delivery drones that can react to people screaming and flailing",
+    "isFake": false
+  },
+  {
+    "headline": "Cops arrested for racing to a donut shop",
+    "isFake": false
+  },
+  {
+    "headline": "Tesla announces $5,000 electric bathtub",
+    "isFake": true
+  },
+  {
+    "headline": "Pilot says passenger's annoying cough made him forget to put landing gear down, resulting in crash landing",
+    "isFake": false
+  },
+  {
+    "headline": "“I was bored” says hacker who deleted 4 million customer records",
+    "isFake": true
+  },
+  {
+    "headline": "Man says intruder entered his home, cleaned everything and left behind toilet paper rose",
+    "isFake": false
+  },
+  {
+    "headline": "A Toronto Realtor Says The Rental Market Is 'Unhinged' After Someone Lists The Other Half Of A Bed",
+    "isFake": false
+  },
+  {
+    "headline": "All the billboards in London are gone ... and replaced with digital ads",
+    "isFake": true
+  },
+  {
+    "headline": "Nigerians are promising to donate large sums of money to the U.S., politician claims",
+    "isFake": true
+  },
+  {
+    "headline": "Apple releases patch that fixes bug where Siri responds aggressively",
+    "isFake": true
+  },
+  {
+    "headline": "Man claims ChatGPT is biased toward his girlfriend in argument",
+    "isFake": true
+  },
+  {
+    "headline": "Austrian police ask residents to stop reporting UFOs “unless they actually land”",
+    "isFake": true
+  },
+  {
+    "headline": "Iowan Man Claims North Korea Spying On Him While He Masturbates",
+    "isFake": true
+  },
+  {
+    "headline": "Chris Rock: These Abusers Are Disgusting",
+    "isFake": true
+  },
+  {
+    "headline": "University staff unsure how cat ended up enrolled at university",
+    "isFake": true
+  },
+  {
+    "headline": "You Can Now Study Tacos at the University of Kentucky",
+    "isFake": false
+  },
+  {
+    "headline": "NASA admits Mars rover playlist is “mostly lo-fi hip hop”",
+    "isFake": true
+  },
+  {
+    "headline": "Apple apologises after autocorrect starts replacing “love” with “like”",
+    "isFake": true
+  },
+  {
+    "headline": "Adelaide mayor apologizes after calling Ukraine “a concept, not a place”",
+    "isFake": true
+  },
+  {
+    "headline": "German artist sells a raw sausage for $18,000",
+    "isFake": true
+  },
+  {
+    "headline": "Urban trees 'live fast, die young' compared to those in rural forests",
+    "isFake": false
+  },
+  {
+    "headline": "NASA says alien message was an April Fool's Day prank",
+    "isFake": true
+  },
+  {
+    "headline": "Subway removes footlong from menu after viral measuring scandal",
+    "isFake": true
+  },
+  {
+    "headline": "Zuckerberg claims social media “should be less social”",
+    "isFake": true
+  },
+  {
+    "headline": "Los Angeles gym introduces “rage room” for members",
+    "isFake": true
+  },
+  {
+    "headline": "Kanye West says he “spiritually feels Chinese",
+    "isFake": true
+  },
+  {
+    "headline": "Google Gemini granted honorary degree at UK university",
+    "isFake": true
+  },
+  {
+    "headline": "Scottish city bans metal detectors: “bad vibes”",
+    "isFake": true
+  },
+  {
+    "headline": "Australian Government website crashes after public asked to vote on new national bird",
+    "isFake": true
+  },
+  {
+    "headline": "Tokyo introduces vending machines for combatting loneliness",
+    "isFake": true
+  },
+  {
+    "headline": "Woman reveals sex life with ghosts, says she'll 'never go back to men'",
+    "isFake": false
+  },
+  {
+    "headline": "Woman Assumes Olympics Fan Is Flying a Confederate Flag. It Was Norwegian.",
+    "isFake": false
+  },
+  {
+    "headline": "Netflix accused of plagiarizing documentary from a YouTube video",
+    "isFake": true
+  },
+  {
+    "headline": "Police Raid 9-Year-Old Pirate Bay Girl, Confiscate Winnie The Pooh Laptop",
+    "isFake": false
+  },
+  {
+    "headline": "“Curious George” kills 3, injures 1 in gas station robbery",
+    "isFake": true
+  },
+  {
+    "headline": "Missing 24-year-old found alive and well 30 years after man confessed to her murder",
+    "isFake": false
+  },
+  {
+    "headline": "Google Maps adds feature that prompts user “are you sure?” before routing to casinos",
+    "isFake": true
+  },
+  {
+    "headline": "Dolphins Die of Drug Overdose after Swiss Rave",
+    "isFake": false
+  },
+  {
+    "headline": "Beekeeper in Arizona claims bees “voted for Trump”",
+    "isFake": true
+  },
+  {
+    "headline": "Mammals going nocturnal to avoid humans",
+    "isFake": false
+  },
+  {
+    "headline": "Kanye West announces he’s “taking a break from being cancelled”",
+    "isFake": true
+  },
+  {
+    "headline": "Russia propose raising retirement age above life expectancy",
+    "isFake": false
+  },
+  {
+    "headline": "Taylor Swift fan accidentally buys 800 stadium seats after ticketing glitch",
+    "isFake": true
+  },
+  {
+    "headline": "Teacher says student spiked her coffee with butt-enhancing pills",
+    "isFake": false
+  },
+  {
+    "headline": "Italian police seize 500 counterfeit Gucci water bottles",
+    "isFake": true
+  },
+  {
+    "headline": "Twitter CEO says verified accounts will now include a “public sentiment rating”",
+    "isFake": true
+  },
+  {
+    "headline": "Adele Hit Wakes Child From Coma",
+    "isFake": false
+  },
+  {
+    "headline": "McDonald’s Japan launches McSushi burger for limited time",
+    "isFake": true
+  },
+  {
+    "headline": "Explorers find disease-cursed City of the Monkey God and nearly lose their faces to flesh-eating parasite",
+    "isFake": false
+  },
+  {
+    "headline": "Cinema showing The Hunger Games: Catching Fire caught fire",
+    "isFake": false
+  },
+  {
+    "headline": "DoorDash driver completes delivery after being declared dead",
+    "isFake": true
+  },
+  {
+    "headline": "Police investigating man who said he would “spread Ebola”, claiming he thought it “was Spanish for spreading good vibes”",
+    "isFake": true
+  },
+  {
+    "headline": "Apple employee fired after tweeting “Apple is so ass” from personal account",
+    "isFake": true
+  },
+  {
+    "headline": "Detroit man named Henry Ford wanted for stealing cars in Motor City",
+    "isFake": false
+  },
+  {
+    "headline": "Phuc Dat Bich reveals name a hoax",
+    "isFake": false
+  },
+  {
+    "headline": "An agoraphobic who hadn’t been out of the house in a decade goes for a walk – and falls down an open manhole",
+    "isFake": false
+  },
+  {
+    "headline": "YouTube apologizes for recommending 4-hour documentary about 9/11 on YouTube Kids app",
+    "isFake": true
+  },
+  {
+    "headline": "DEA agent quits to work in marijuana industry",
+    "isFake": false
+  },
+  {
+    "headline": "Family Reels After Married Dad Vanishes for 16 Years, Reappears Gay",
+    "isFake": false
+  },
+  {
+    "headline": "Annual pillow fight at West Point turns violent; 30 cadets hurt",
+    "isFake": false
+  },
+  {
+    "headline": "Law to declare a single parent raising a child to be child abuse",
+    "isFake": false
+  },
+  {
+    "headline": "Lawyer sentenced to 18 years for smashing chair on judge's head",
+    "isFake": false
+  },
+  {
+    "headline": "Pope says TikTok confessionals “do not count”",
+    "isFake": true
+  },
+  {
+    "headline": "Classmates can’t find time capsule buried 30 years ago",
+    "isFake": false
+  },
+  {
+    "headline": "A man found 54 human hands in the snow. Russia says they’re probably just trash",
+    "isFake": false
+  },
+  {
+    "headline": "Taylor Swift fan accidentally marries scammer who thought she was Taylor Swift",
+    "isFake": true
+  },
+  {
+    "headline": "Local council installs €2 million fountain of milk to combat obesity",
+    "isFake": true
+  },
+  {
+    "headline": "Man steals lottery ticket worth $5 million from homeless man",
+    "isFake": true
+  },
+  {
+    "headline": "Canadian fisherman swears at lake for two hours, catches record fish",
+    "isFake": true
+  },
+  {
+    "headline": "Man cleared of owning 'extreme porn' after tiger in sex video revealed to be man in costume",
+    "isFake": false
+  },
+  {
+    "headline": "Apple announces green skin tone for emojis",
+    "isFake": true
+  },
+  {
+    "headline": "“Too early to tell,” says expert about the Titanic",
+    "isFake": true
+  },
+  {
+    "headline": "You Can Now Bet On Which Penguins Will Couple Up",
+    "isFake": true
+  },
+  {
+    "headline": "Paris bakery under investigation for stealing croissant recipe using undercover chef",
+    "isFake": true
+  },
+  {
+    "headline": "KFC tests “silent hour” for customers who hate small talk",
+    "isFake": true
+  },
+  {
+    "headline": "Florida police respond to call about “calm alligator”",
+    "isFake": true
+  },
+  {
+    "headline": "Ryanair pilot lands in wrong country, calls it “a minor navigation surprise”",
+    "isFake": true
+  },
+  {
+    "headline": "Woman Mistakes Labor for Bad Chinese Food",
+    "isFake": false
+  },
+  {
+    "headline": "Starbucks introduces “Labubu flavoured drinks”",
+    "isFake": true
+  },
+  {
+    "headline": "Paris fashion show ends abruptly after pigeon steals diamond accessory",
+    "isFake": true
+  },
+  {
+    "headline": "Harvard approves student group devoted to kinky sex on campus",
+    "isFake": false
+  },
+  {
+    "headline": "Peter Dutton's home affairs ministry will investigate itself for corruption",
+    "isFake": false
+  },
+  {
+    "headline": "Local police post mugshots on Pinterest, leading to a 57% boost in arrests",
+    "isFake": false
+  },
+  {
+    "headline": "Oregon couple discovers landfill full of garden gnomes",
+    "isFake": true
+  },
+  {
+    "headline": "Former Walmart US CEO says Congress should consider splitting up Amazon",
+    "isFake": false
+  },
+  {
+    "headline": "Australian supermarket apologizes after labeling chicken breast as “vegan meat”",
+    "isFake": true
+  },
+  {
+    "headline": "Priest gives Irish PM holy water ahead of Brexit talks with Boris Johnson",
+    "isFake": false
+  },
+  {
+    "headline": "Holding hands is a “gateway” to sexual behaviour and mentions of it should be banned in schools, says governer",
+    "isFake": false
+  },
+  {
+    "headline": "NYU paper mathematically proves that cereal is a soup",
+    "isFake": true
+  },
+  {
+    "headline": "Apple admits autocorrect has been “intentionally bad” since 2018 update",
+    "isFake": true
+  },
+  {
+    "headline": "Driver crashes into telegraph pole in middle of spacious desert",
+    "isFake": false
+  },
+  {
+    "headline": "Man 'accidentally shoots his friend' at climate change protest",
+    "isFake": true
+  },
+  {
+    "headline": "Man who accidentally stole car 21 years ago searching for vehicle's owner",
+    "isFake": false
+  },
+  {
+    "headline": "Report finds half of Americans think QR codes are magic",
+    "isFake": true
+  },
+  {
+    "headline": "U.S. town bans clowns after mayor admits phobia",
+    "isFake": true
+  },
+  {
+    "headline": "Racist dead man has no attendees at his funeral",
+    "isFake": true
+  },
+  {
+    "headline": "TSA Allowed US Flag Themed Gun On Flight Because It Was Independence Day",
+    "isFake": true
+  },
+  {
+    "headline": "Lucy the Dog Saves Man Accused of Sex Crimes From 50-year Prison Sentence",
+    "isFake": false
+  },
+  {
+    "headline": "Woman Disowns Cat For Being Gay",
+    "isFake": false
+  }
+]
