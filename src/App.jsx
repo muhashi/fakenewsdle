@@ -222,7 +222,7 @@ export default function FakeNewsGame() {
           <Stack align="center" spacing="sm">
             <Title order={1} color="blue" className="title-text">FakeNewsdle</Title>
             <Text c="dimmed" size="lg" align="center">
-              Today's Daily Challenge
+              Figure out which news headlines are real and which are made up!
             </Text>
             <Badge size="lg" variant="dot">
               {new Date().toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}
@@ -316,7 +316,7 @@ export default function FakeNewsGame() {
               Was this a real news headline or a made up headline?
             </Text> */}
             <Text size="sm" c="dimmed" align="center">
-              <strong>Note:</strong> These articles are from various years and may not reflect current events.
+              <strong>Note:</strong> These articles are from various years.
             </Text>
           </Paper>
         )}
