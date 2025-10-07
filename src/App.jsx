@@ -24,7 +24,7 @@ import FULL_DATASET from './data/dataset.json';
 // Calculate which day it is since epoch (January 1, 1970)
 const getDaysSinceEpoch = () => {
   const now = new Date();
-  const start = new Date(2025, 8, 29);
+  const start = new Date(2025, 9, 7); // October 7, 2025 - first day of FakeNewsdle!
   const diff = now - start;
   return Math.floor(diff / (1000 * 60 * 60 * 24));
 };
