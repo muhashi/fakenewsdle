@@ -34,7 +34,7 @@ const getTodaysHeadlines = () => {
   return FULL_DATASET.slice(startIndex, endIndex);
 };
 
-export default function OnionGame() {
+export default function FakeNewsGame() {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [score, setScore] = useState(0);
   const [totalAnswered, setTotalAnswered] = useState(0);
@@ -51,7 +51,7 @@ export default function OnionGame() {
     
     // Load saved progress for today
     const today = new Date().toDateString();
-    const saved = JSON.parse(localStorage.getItem('onionGameProgress') || '{}');
+    const saved = JSON.parse(localStorage.getItem('gameProgress') || '{}');
     
     if (saved.date === today && saved.answers) {
       setTodayAnswers(saved.answers);
@@ -72,7 +72,7 @@ export default function OnionGame() {
     setShowResult(true);
     setTotalAnswered(prev => prev + 1);
     
-    const isCorrect = guess === currentHeadline?.isOnion;
+    const isCorrect = guess === currentHeadline?.isFake;
     if (isCorrect) {
       setScore(prev => prev + 1);
     }
@@ -83,7 +83,7 @@ export default function OnionGame() {
     
     // Save progress to localStorage
     const today = new Date().toDateString();
-    localStorage.setItem('onionGameProgress', JSON.stringify({
+    localStorage.setItem('gameProgress', JSON.stringify({
       date: today,
       answers: newAnswers,
       score: isCorrect ? score + 1 : score
@@ -162,7 +162,7 @@ export default function OnionGame() {
                 <Text c="dimmed">
                   {finalPercentage >= 80 && "Excellent! You're a headline expert!"}
                   {finalPercentage >= 60 && finalPercentage < 80 && "Good job! You can spot satire pretty well!"}
-                  {finalPercentage < 60 && "The Onion got you! Better luck next time!"}
+                  {finalPercentage < 60 && "The fake news got you! Better luck next time!"}
                 </Text>
               </Stack>
               
@@ -185,7 +185,7 @@ export default function OnionGame() {
         {/* Header */}
         <Center>
           <Stack align="center" spacing="sm">
-            <Title order={1} color="blue" className="title-text"><span>O</span><span>n</span></Title>
+            <Title order={1} color="blue" className="title-text">FakeNewsdle</Title>
             <Text c="dimmed" size="lg" align="center">
               Today's Daily Challenge
             </Text>
@@ -231,7 +231,7 @@ export default function OnionGame() {
                   onClick={() => handleGuess(false)}
                   style={{ minWidth: 120 }}
                 >
-                  📰 Real News
+                  Real News
                 </Button>
                 <Button
                   size="lg"
@@ -240,7 +240,7 @@ export default function OnionGame() {
                   onClick={() => handleGuess(true)}
                   style={{ minWidth: 120 }}
                 >
-                  🧅 The Onion
+                  Fake News
                 </Button>
               </Group>
             ) : (
@@ -248,7 +248,7 @@ export default function OnionGame() {
                 <Divider />
                 <Center>
                   <Stack align="center" spacing="sm">
-                    {userGuess === currentHeadline?.isOnion ? (
+                    {userGuess === currentHeadline?.isFake ? (
                       <Badge color="green" size="xl" variant="filled">
                         ✅ Correct!
                       </Badge>
@@ -259,7 +259,7 @@ export default function OnionGame() {
                     )}
                     
                     <Text align="center">
-                      This was a <strong>{currentHeadline?.isOnion ? 'satirical Onion' : 'real news'}</strong> headline
+                      This was a <strong>{currentHeadline?.isFake ? 'fake news' : 'real news'}</strong> headline
                     </Text>
                   </Stack>
                 </Center>
@@ -278,7 +278,7 @@ export default function OnionGame() {
         {!showResult && (
           <Paper p="md" radius="md" style={{ backgroundColor: '#f8f9fa' }}>
             {/* <Text size="sm" c="dimmed" align="center">
-              Was this a real news headline or a satirical The Onion article?
+              Was this a real news headline or a made up headline?
             </Text> */}
             <Text size="sm" c="dimmed" align="center">
               <strong>Note:</strong> These articles are from various years and may not reflect current events.
