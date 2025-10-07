@@ -12,8 +12,12 @@ import {
   Center,
   Divider,
   Paper,
-  RingProgress
+  RingProgress,
+  CopyButton,
+  Tooltip,
+  ActionIcon
 } from '@mantine/core';
+import { IconShare, IconCheck } from '@tabler/icons-react';
 
 import FULL_DATASET from './data/dataset.json';
 
@@ -120,6 +124,22 @@ export default function FakeNewsGame() {
     return `${hours}h ${minutes}m`;
   };
 
+  const generateShareText = () => {
+    const finalPercentage = (score / totalAnswered) * 100;
+    const date = new Date().toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+    
+    // Create visual grid showing correct/incorrect
+    let resultGrid = '';
+    todayAnswers.forEach((answer, idx) => {
+      resultGrid += answer.correct ? '🟩' : '🟥';
+      if ((idx + 1) % 4 === 0 && idx !== todayAnswers.length - 1) {
+        resultGrid += '\n';
+      }
+    });
+    
+    return `https://muhashi.com/FakeNewsdle ${date}\n${score}/${totalAnswered} (${finalPercentage.toFixed(0)}%)\n\n${resultGrid}`;
+  };
+
   if (headlines.length === 0) {
     return (
       <Container size="md" py="xl">
@@ -160,11 +180,26 @@ export default function FakeNewsGame() {
                 </Text>
                 
                 <Text c="dimmed">
-                  {finalPercentage >= 80 && "Excellent! You're a headline expert!"}
-                  {finalPercentage >= 60 && finalPercentage < 80 && "Good job! You can spot satire pretty well!"}
-                  {finalPercentage < 60 && "The fake news got you! Better luck next time!"}
+                  {finalPercentage >= 80 && "Excellent work!!"}
+                  {finalPercentage >= 60 && finalPercentage < 80 && "Good job!!"}
+                  {finalPercentage < 60 && "Better luck next time!!"}
                 </Text>
               </Stack>
+              
+              <Divider w="100%" />
+              
+              <CopyButton value={generateShareText()} timeout={2000}>
+                {({ copied, copy }) => (
+                  <Button
+                    size="lg"
+                    color={copied ? 'teal' : 'blue'}
+                    onClick={copy}
+                    leftSection={copied ? <IconCheck size={20} /> : <IconShare size={20} />}
+                  >
+                    {copied ? 'Copied to Clipboard!' : 'Share Results'}
+                  </Button>
+                )}
+              </CopyButton>
               
               <Divider w="100%" />
               
