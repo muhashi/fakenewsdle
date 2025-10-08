@@ -137,7 +137,7 @@ export default function FakeNewsGame() {
       }
     });
     
-    return `https://muhashi.com/fakenewsdle ${date}\n${score}/${totalAnswered} (${finalPercentage.toFixed(0)}%)\n\n${resultGrid}`;
+    return `FakeNewsdle ${date}\n${score}/${totalAnswered} (${finalPercentage.toFixed(0)}%)\n\n${resultGrid}\n\nhttps://muhashi.com/fakenewsdle`;
   };
 
   if (headlines.length === 0) {
