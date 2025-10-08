@@ -1,16 +1,14 @@
-# React + Vite
+# FakeNewsdle
+## Guess whether an absurd sounding headline is made up or a real news article!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="2320" height="1186" alt="image" src="https://github.com/user-attachments/assets/e0bd68e8-b08f-4ae7-8d5b-6b58f2560b31" />
 
-Currently, two official plugins are available:
+[Try the game out here](https://muhashi.com/fakenewsdle/)! 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Deployment
 
-## React Compiler
+If you want to host this on your own domain, fork/clone the repo and run `npm install` at the root. In `vite.config.json` change the `base` attribute to whatever directory you will be hosting on. Run `npm run dev` to make sure it compiles correctly, and then committing to your repo. You will need to set GH Pages to deploy via Actions, and allow Actions permissions to read and write. 
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Updating Dataset
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+`csvToJson.js` script exists for adding new entries to the dataset. Add new lines to `real.csv` and `fake.csv`, and run the script to add new entries to dataset. An equal number of both real and fake headlines will be taken, shuffled, removed from the csv files and added to the JSON dataset.
