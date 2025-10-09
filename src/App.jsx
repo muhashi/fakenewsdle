@@ -14,8 +14,7 @@ import {
   Paper,
   RingProgress,
   CopyButton,
-  Tooltip,
-  ActionIcon
+  Anchor,
 } from '@mantine/core';
 import { IconShare, IconCheck } from '@tabler/icons-react';
 
@@ -320,6 +319,9 @@ export default function FakeNewsGame() {
             </Text>
           </Paper>
         )}
+        <Text size="sm" c="dimmed" align="center">
+          Game by <Anchor href="https://muhashi.com" target="_blank" rel="noopener noreferrer">muhashi</Anchor>.
+        </Text>
       </Stack>
     </Container>
   );
